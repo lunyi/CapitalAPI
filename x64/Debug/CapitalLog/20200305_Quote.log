@@ -1,0 +1,74 @@
+-----------------------------------------------------------------
+[21508] 2020/03/05 22:31:59.674 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005,2330)
+[21508] 2020/03/05 22:31:59.674 Divide StockNo {TX00}
+[21508] 2020/03/05 22:31:59.674 Stock Not Exist 
+[21508] 2020/03/05 22:31:59.674 Divide StockNo {MTX00}
+[21508] 2020/03/05 22:31:59.674 Stock Not Exist 
+[21508] 2020/03/05 22:31:59.674 Divide StockNo {6005}
+[21508] 2020/03/05 22:31:59.674 Stock Not Exist 
+[21508] 2020/03/05 22:31:59.674 Divide StockNo {2330}
+[21508] 2020/03/05 22:31:59.674 Stock Not Exist 
+[21508] 2020/03/05 22:32:06.424 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-fg.capital.com.tw
+[21508] 2020/03/05 22:32:06.473 OnSessionConnect¡ACode: 0
+[21508] 2020/03/05 22:32:06.561 market(1)  Ready!
+[21508] 2020/03/05 22:32:06.561 market(0)  Ready!
+[21508] 2020/03/05 22:32:06.567 market(3)  Ready!
+[21508] 2020/03/05 22:32:06.567 market(2)  Ready!
+[21508] 2020/03/05 22:32:06.574 market(2)  Ready!
+[21508] 2020/03/05 22:32:06.574 market(3)  Ready!
+[21508] 2020/03/05 22:32:06.582 market(4)  Ready!
+[21508] 2020/03/05 22:32:06.774 Market Info is OK!
+[21508] 2020/03/05 22:32:06.832 Catalog info is OK!
+[21508] 2020/03/05 22:32:37.814 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005,2330)
+[21508] 2020/03/05 22:32:37.814 Divide StockNo {TX00}
+[21508] 2020/03/05 22:32:37.814 Add Basket MarketNo¡G2 StockIdx¡G0
+[21508] 2020/03/05 22:32:37.814 Divide StockNo {MTX00}
+[21508] 2020/03/05 22:32:37.814 Add Basket MarketNo¡G2 StockIdx¡G7
+[21508] 2020/03/05 22:32:37.814 Divide StockNo {6005}
+[21508] 2020/03/05 22:32:37.814 Add Basket MarketNo¡G0 StockIdx¡G16751
+[21508] 2020/03/05 22:32:37.814 Divide StockNo {2330}
+[21508] 2020/03/05 22:32:37.814 Add Basket MarketNo¡G0 StockIdx¡G16266
+[21508] 2020/03/05 22:32:37.814 Return PageNo¡G 1 
+[21508] 2020/03/05 22:33:19.436 SKQuoteLib_RequestStocks (1 , TX00,MTX00,6005,2330)
+[21508] 2020/03/05 22:33:19.436 Divide StockNo {TX00}
+[21508] 2020/03/05 22:33:19.436 Add Basket MarketNo¡G2 StockIdx¡G0
+[21508] 2020/03/05 22:33:19.436 Divide StockNo {MTX00}
+[21508] 2020/03/05 22:33:19.436 Add Basket MarketNo¡G2 StockIdx¡G7
+[21508] 2020/03/05 22:33:19.436 Divide StockNo {6005}
+[21508] 2020/03/05 22:33:19.436 Add Basket MarketNo¡G0 StockIdx¡G16751
+[21508] 2020/03/05 22:33:19.436 Divide StockNo {2330}
+[21508] 2020/03/05 22:33:19.436 Add Basket MarketNo¡G0 StockIdx¡G16266
+[21508] 2020/03/05 22:33:19.436 Return PageNo¡G 1 
+[21508] 2020/03/05 22:33:35.226 SKQuoteLib_RequestStocks (1 , TX00,MTX00,6005,2330,6161)
+[21508] 2020/03/05 22:33:35.226 Divide StockNo {TX00}
+[21508] 2020/03/05 22:33:35.226 Add Basket MarketNo¡G2 StockIdx¡G0
+[21508] 2020/03/05 22:33:35.226 Divide StockNo {MTX00}
+[21508] 2020/03/05 22:33:35.226 Add Basket MarketNo¡G2 StockIdx¡G7
+[21508] 2020/03/05 22:33:35.226 Divide StockNo {6005}
+[21508] 2020/03/05 22:33:35.226 Add Basket MarketNo¡G0 StockIdx¡G16751
+[21508] 2020/03/05 22:33:35.226 Divide StockNo {2330}
+[21508] 2020/03/05 22:33:35.226 Add Basket MarketNo¡G0 StockIdx¡G16266
+[21508] 2020/03/05 22:33:35.226 Divide StockNo {6161}
+[21508] 2020/03/05 22:33:35.226 Add Basket MarketNo¡G1 StockIdx¡G762
+[21508] 2020/03/05 22:33:35.226 Return PageNo¡G 1 
+[21508] 2020/03/05 22:33:56.469  SKQuoteLib_RequestTicks ( -1 , 6161 )
+[21508] 2020/03/05 22:33:56.469 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:04.375  SKQuoteLib_RequestLiveTick ( 0 , 6161 )
+[21508] 2020/03/05 22:34:04.375 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:05.764  SKQuoteLib_RequestTicks ( 0 , 6161 )
+[21508] 2020/03/05 22:34:05.764 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:08.992  SKQuoteLib_RequestTicks ( 0 , 6161 )
+[21508] 2020/03/05 22:34:08.992 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:10.638  SKQuoteLib_RequestTicks ( 0 , 6161 )
+[21508] 2020/03/05 22:34:10.638 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:11.517  SKQuoteLib_RequestTicks ( 50 , 6161 )
+[21508] 2020/03/05 22:34:11.517 Return PageNo¡G 50 
+[21508] 2020/03/05 22:34:12.911  SKQuoteLib_RequestTicks ( 0 , 6161 )
+[21508] 2020/03/05 22:34:12.911 Return PageNo¡G 0 
+[21508] 2020/03/05 22:34:36.015 SKQuoteLib_GetKLine(0,2330 )
+[21508] 2020/03/05 22:34:59.028 SKQuoteLib_GetKLine(1,2330 )
+[21508] 2020/03/05 22:35:04.817 SKQuoteLib_GetKLine(4,2330 )
+[21508] 2020/03/05 22:35:20.564 SKQuoteLib_GetKLine(4,2330 )
+[21508] 2020/03/05 22:35:22.044 SKQuoteLib_GetKLine(4,2330 )
+[21508] 2020/03/06 07:30:10.078 market(3) Not Ready!
+[21508] 2020/03/06 22:40:47.044 -----------------------------------------------------------------

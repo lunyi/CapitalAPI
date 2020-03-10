@@ -1,0 +1,64 @@
+-----------------------------------------------------------------
+[20268] 2020/03/05 22:22:40.771 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005,3005,2330)
+[20268] 2020/03/05 22:22:40.771 Divide StockNo {TX00}
+[20268] 2020/03/05 22:22:40.771 Stock Not Exist 
+[20268] 2020/03/05 22:22:40.771 Divide StockNo {MTX00}
+[20268] 2020/03/05 22:22:40.771 Stock Not Exist 
+[20268] 2020/03/05 22:22:40.771 Divide StockNo {6005}
+[20268] 2020/03/05 22:22:40.771 Stock Not Exist 
+[20268] 2020/03/05 22:22:40.771 Divide StockNo {3005}
+[20268] 2020/03/05 22:22:40.771 Stock Not Exist 
+[20268] 2020/03/05 22:22:40.771 Divide StockNo {2330}
+[20268] 2020/03/05 22:22:40.771 Stock Not Exist 
+[20268] 2020/03/05 22:23:04.803 SKQuoteLib_GetKLine(0,2330 )
+[20268] 2020/03/05 22:23:08.861 SKQuoteLib_GetKLine(0,2330 )
+[20268] 2020/03/05 22:23:14.242 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:16.056 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:16.930 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:17.763 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:18.034 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:18.254 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:18.842 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:19.900 SKQuoteLib_GetMarketBuySellUpDown()
+[20268] 2020/03/05 22:23:28.727 SKQuoteLib_RequestBool
+[20268] 2020/03/05 22:23:28.727  SKQuoteLib_RequestBool (  2330 )
+[20268] 2020/03/05 22:23:30.715 SKQuoteLib_RequestMACD
+[20268] 2020/03/05 22:23:30.715  SKQuoteLib_RequestMACD (  6005 )
+[20268] 2020/03/05 22:23:41.265  SKQuoteLib_RequestTicks ( -1 , 6005 )
+[20268] 2020/03/05 22:23:46.743  SKQuoteLib_RequestTicks ( -1 , 2330 )
+[20268] 2020/03/05 22:23:55.749 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-fg.capital.com.tw
+[20268] 2020/03/05 22:23:55.799 OnSessionConnect¡ACode: 0
+[20268] 2020/03/05 22:23:55.887 market(0)  Ready!
+[20268] 2020/03/05 22:23:55.891 market(2)  Ready!
+[20268] 2020/03/05 22:23:55.891 market(1)  Ready!
+[20268] 2020/03/05 22:23:55.891 market(2)  Ready!
+[20268] 2020/03/05 22:23:55.892 market(4)  Ready!
+[20268] 2020/03/05 22:23:55.898 market(3)  Ready!
+[20268] 2020/03/05 22:23:55.899 market(3)  Ready!
+[20268] 2020/03/05 22:23:56.074 Market Info is OK!
+[20268] 2020/03/05 22:23:56.129 Catalog info is OK!
+[20268] 2020/03/05 22:23:56.175 OnSessionConnect¡ACode: 0
+[20268] 2020/03/05 22:23:59.325 SKQuoteLib_RequestBool
+[20268] 2020/03/05 22:23:59.325  SKQuoteLib_RequestBool (  2330 )
+[20268] 2020/03/05 22:24:04.605 SKQuoteLib_RequestMACD
+[20268] 2020/03/05 22:24:04.605  SKQuoteLib_RequestMACD (  6005 )
+[20268] 2020/03/05 22:24:08.907 SKQuoteLib_RequestMACD
+[20268] 2020/03/05 22:24:08.907  SKQuoteLib_RequestMACD (  2330 )
+[20268] 2020/03/05 22:24:13.192 SKQuoteLib_GetKLine(0,2330 )
+[20268] 2020/03/05 22:24:42.125 SKQuoteLib_RequestFutureTradeInfo (0 , TX00)
+[20268] 2020/03/05 22:24:42.125 FutureTradeInfo - MarketNo¡G2 StockIdx¡G0
+[20268] 2020/03/05 22:24:49.238 SKQuoteLib_RequestFutureTradeInfo (0 , 6161)
+[20268] 2020/03/05 22:24:49.238 FutureTradeInfo - MarketNo¡G1 StockIdx¡G762
+[20268] 2020/03/05 22:24:50.580 SKQuoteLib_RequestFutureTradeInfo (0 , 6161)
+[20268] 2020/03/05 22:24:50.580 FutureTradeInfo - MarketNo¡G1 StockIdx¡G762
+[20268] 2020/03/05 22:24:52.524 SKQuoteLib_RequestFutureTradeInfo (0 , 6161)
+[20268] 2020/03/05 22:24:52.524 FutureTradeInfo - MarketNo¡G1 StockIdx¡G762
+[20268] 2020/03/05 22:24:53.552 SKQuoteLib_RequestFutureTradeInfo (0 , 6161)
+[20268] 2020/03/05 22:24:53.552 FutureTradeInfo - MarketNo¡G1 StockIdx¡G762
+[20268] 2020/03/05 22:24:54.213 SKQuoteLib_RequestFutureTradeInfo (0 , 6161)
+[20268] 2020/03/05 22:24:54.213 FutureTradeInfo - MarketNo¡G1 StockIdx¡G762
+[20268] 2020/03/05 22:25:02.456 SKQuoteLib_GetKLine(0,6161 )
+[20268] 2020/03/05 22:25:07.262 SKQuoteLib_GetKLine(0,6161 )
+[20268] 2020/03/05 22:25:12.139 SKQuoteLib_GetKLine(0,6161 )
+[20268] 2020/03/05 22:25:17.010 SKQuoteLib_GetKLine(0,6161 )
+[20268] 2020/03/05 22:25:22.357 -----------------------------------------------------------------
